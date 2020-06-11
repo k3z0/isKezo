@@ -1,6 +1,6 @@
 function isKezo (input) {
-  input = input.toLowerCase()
-  return input === 'kezo' || input === 'k3z0'
+  const kezo = input.toLowerCase()
+  return kezo === 'kezo' || kezo === 'k3z0'
 }
 
 module.exports = isKezo
