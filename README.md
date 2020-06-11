@@ -1,0 +1,2 @@
+# isKezo
+isKezo npm package
