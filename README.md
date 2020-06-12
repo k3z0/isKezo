@@ -1,2 +1,2 @@
 # isKezo
-isKezo npm package
+isKezo npm package 2
