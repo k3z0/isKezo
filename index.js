@@ -3,4 +3,4 @@ function isKezo (input) {
   return kezo === 'kezo' || kezo === 'k3z0'
 }
 
-module.exports = isKezo
+module.exports = isKezo;
